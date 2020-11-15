@@ -43,7 +43,6 @@ dependencies {
     implementation files('libs\\poi-4.1.2.jar')
     implementation files('libs\\poi-ooxml-4.1.2.jar')
     implementation files('libs\\poi-ooxml-schemas-4.1.2.jar')
-    implementation files('libs\\xmlbeans-4.0.0.jar')
     implementation files('libs\\commons-compress-1.19.jar')
     implementation files('libs\\xmlbeans-3.1.0.jar')
     testImplementation 'junit:junit:4.+'
